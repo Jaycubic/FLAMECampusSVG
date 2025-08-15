@@ -1,0 +1,12 @@
+[
+	{ "id": "lib-1", "name": "Central Library", "lat": 18.52496, "lng": 73.73095, "type": "library", "status": "open", "capacity": 120, "updatedAt": 1734310000 },
+	{ "id": "cafe-1", "name": "Atrium Cafe", "lat": 18.5258, "lng": 73.7302, "type": "food", "status": "busy", "capacity": 30, "updatedAt": 1734310200 },
+	{ "id": "rest-1", "name": "Restroom A", "lat": 18.5261, "lng": 73.7297, "type": "restroom", "status": "available", "capacity": 0, "updatedAt": 1734310500 },
+	{ "id": "study-1", "name": "Study Pods", "lat": 18.5239, "lng": 73.7322, "type": "study", "status": "available", "capacity": 12, "updatedAt": 1734310600 },
+	{ "id": "bus-1", "name": "Shuttle Stop", "lat": 18.5228, "lng": 73.7332, "type": "transport", "status": "arriving", "capacity": 40, "updatedAt": 1734310700 },
+	{ "id": "gym-1", "name": "Fitness Center", "lat": 18.5242, "lng": 73.7317, "type": "gym", "status": "open", "capacity": 50, "updatedAt": 1734310800 },
+	{ "id": "laundry-1", "name": "Laundry Room A", "lat": 18.5218, "lng": 73.7329, "type": "laundry", "status": "available", "capacity": 10, "updatedAt": 1734310900 },
+	{ "id": "food-2", "name": "Canteen North", "lat": 18.5231, "lng": 73.7334, "type": "food", "status": "open", "capacity": 60, "updatedAt": 1734311000 },
+	{ "id": "rest-2", "name": "Restroom B", "lat": 18.5223, "lng": 73.7315, "type": "restroom", "status": "available", "capacity": 0, "updatedAt": 1734311100 },
+	{ "id": "study-2", "name": "Study Hall", "lat": 18.5268, "lng": 73.7289, "type": "study", "status": "busy", "capacity": 80, "updatedAt": 1734311200 }
+]
